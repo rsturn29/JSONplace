@@ -2,10 +2,10 @@
 {
   "cars": [
   {
-  model: "Aston Martin",
-      make: "DBS Superleggera",
-      year: "2021",
-      mileage: "50",
-      listPrice: "334,700",
+  "model": "Aston Martin",
+      "make": "DBS Superleggera",
+      "year": "2021",
+      "mileage": "50",
+      "listPrice": "334,700",
     }]
   }
